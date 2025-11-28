@@ -76,7 +76,7 @@ export default function Hero() {
                             <div className="absolute -inset-1 rounded-2xl bg-gradient-to-r from-purple-600 via-teal-500 to-indigo-600 opacity-30 blur-xl transition duration-1000 group-hover:opacity-50"></div>
                             <div className="relative overflow-hidden rounded-xl bg-gray-900 shadow-inner">
                                 <Image
-                                    src="/zappod_dashboard_hero_v2.png"
+                                    src="https://images.unsplash.com/photo-1612838320302-4b3b3b3b3b3b"
                                     alt="ZapPOD Dashboard Interface"
                                     width={1400}
                                     height={900}
